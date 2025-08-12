@@ -1,0 +1,3 @@
+[submodule "FaceForensics"]
+	path = FaceForensics
+	url = https://github.com/ondyari/FaceForensics
