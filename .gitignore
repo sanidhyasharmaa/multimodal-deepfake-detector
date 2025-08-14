@@ -1,0 +1,12 @@
+*.mp4
+*.h5
+*.pth
+data/
+datasets/
+FaceForensics/
+temp_faceforensics/
+.DS_Store
+__pycache__/
+
+
+
